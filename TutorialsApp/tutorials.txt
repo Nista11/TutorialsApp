@@ -1,0 +1,8 @@
+1, Title: C++ arrays, Presenter: Ken Thompson, Link: cpp.com/2, Duration: 10:20, Likes: 133
+2, Title: C++ vs C, Presenter: Bjarne Stroustrup, Link: cpp.com/3, Duration: 23:44, Likes: 344
+3, Title: ++ operator in C++, Presenter: James Gosling, Link: cpp.com/4, Duration: 34:23, Likes: 343
+4, Title: Templates in C++, Presenter: Brian Kernighan, Link: cpp.com/5, Duration: 12:20, Likes: 87
+5, Title: C++ for loop for beginners, Presenter: James Gosling, Link: cpp.com/6, Duration: 11:34, Likes: 456
+6, Title: C++ while while you are still a beginner, Presenter: Linus Torvalds, Link: cpp.com/7, Duration: 30:56, Likes: 456
+7, Title: C++ switch while the beginner switch is on, Presenter: Bill Gates, Link: cpp.com/8, Duration: 17:40, Likes: 351
+8, Title: Why C++ is better than {insert other language}, Presenter: Bjarne Stroustrup, Link: cpp.com/9, Duration: 55:40, Likes: 500
